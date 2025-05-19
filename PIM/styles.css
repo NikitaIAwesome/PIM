@@ -1,0 +1,55 @@
+.img_teacher{
+    
+    width: 300px;
+    height: 400px;
+    border: 5px solid #a07676;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto ;
+}
+.img_teacher2 {
+    width: 1024px;
+    height: 624px;
+    border: 5px solid #a07676;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto;
+}
+.slider{
+    width: 1024px;
+    height: 624px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto ;
+}
+.gll{
+    flex: auto  ;
+    height: 35px;
+    margin-left: auto;
+    margin-right: auto;
+    margin: auto ;
+}
+.aggl{
+    display: flex;
+    margin: 0 auto;
+}
+.Cards{
+    margin: 20px
+}
+
+.text{
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.418);
+}
+.caruel{
+    height: 1400px;
+    width: 1400px;
+}
+.atext{
+    text-align: center;
+}
+.bb{
+    height: 33%;
+    width: 33%
+}
+
